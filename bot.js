@@ -30,7 +30,7 @@ const cv_code = '123';
 const size = 'M 9 / W 10.5';
 
 // url: url to the shoe page, e.g., 'https://www.nike.com/us/launch/t/kobe-4-protro-wizenard/'
-const url = 'https://www.nike.com/us/launch/t/kobe-4-protro-wizenard/';
+const url = 'https://www.nike.com/vn/launch/t/blazer-mid-77-infinite-rubberized-grey';
 
 // debug: Use debug/logging features?
 // Includes writing updates to log file, writing html snapshots, and taking screenshots
